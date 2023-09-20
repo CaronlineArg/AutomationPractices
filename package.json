@@ -1,0 +1,16 @@
+{
+  "name": "automationpractices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "actividad1.cy.js",
+  "scripts": {
+    "test": "npx cypress open",
+    "dev": "npx cypress open --config baseUrl=https://pushing-it.vercel.app"
+ },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.3.0"
+  }
+}
